@@ -7,8 +7,7 @@ See sample output from the CLI:
 
 ![image](https://user-images.githubusercontent.com/94804863/159651921-b90465cd-f543-44f7-a783-1a448753197a.png)
 
-It normally many addresses can be learned, and it is important to know how many routers and hosts learned and the vendor of the specific IP from different devices in once.  
-
+Normally many addresses can be learned, and it is important to know how many routers and hosts learned and the vendor of the specific IP from different devices in once.  
 For more detail regarding to RFC 9047:
 
 https://www.ietf.org/rfc/rfc9047.pdf
