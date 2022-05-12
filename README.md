@@ -3,7 +3,7 @@ How to get all Hosts and Routers shown under proxy-nd table.
 
 There is a distinction between host and routers when doing proxy-nd is explained in RFCs 9161 and the solution in 9047. Thanks to the distinction, we are able to identify Rtr or Host of specific IPv6 and Mac addresses. 
 
-See sample output from the CLI: 
+See a sample output from the CLI: 
 
 ![image](https://user-images.githubusercontent.com/94804863/159651921-b90465cd-f543-44f7-a783-1a448753197a.png)
 
